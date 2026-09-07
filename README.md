@@ -1,5 +1,7 @@
 # Min CV
 
+![License](https://img.shields.io/github/license/maithanhnguyen06/Webutvikling)
+
 Dette er min personlige CV-nettside laget i forbindelse med Øving 1.
 
 ## Om prosjektet
