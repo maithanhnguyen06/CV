@@ -16,6 +16,21 @@ Jeg har brukt:
 - **CSS**
 - **JavaScript**
 
+## Filstruktur
+
+| Fil | Beskrivelse |
+|---|---|
+| `index.html` | Hovedsiden til oppgaven |
+| `about.html` | Side med kort introduksjon om meg |
+| `cv.html` | Side med CV-en |
+| `style.css` | Styling og layout |
+| `README.md` | Informasjon om prosjektet |
+| `LICENSE` | MIT-lisens |
+
+## Skjermbilde
+
+![Skjermbilde av CV-en](hovedside-skjermbilde.png)
+
 ## Kom i gang
 
 For å åpne nettsiden lokalt:
