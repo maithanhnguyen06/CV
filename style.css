@@ -1,0 +1,43 @@
+div {
+    padding: 30px;
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 25px;
+    margin-bottom: 35px;
+}
+
+body {
+    background-image: url("porsgrunn.png");
+    background-size: cover;
+    color: black;
+    font-family: Tahoma, serif;
+    color: #4F4945;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    border-bottom: 2px solid #4F4945;
+}
+
+#button {
+    background-color: #9EA2DB;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin: 50px auto;
+}
+
+#button:hover {
+    background-color: #7D81BA;
+}
