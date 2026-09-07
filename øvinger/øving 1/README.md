@@ -30,4 +30,4 @@ python -m http.server
 
 ## Live demo
 
-[Se CV-en min på nett](https://brukernavn.github.io/repo-navn/)
+[Se CV-en min på nett]( https://maithanhnguyen06.github.io/Webutvikling/)
