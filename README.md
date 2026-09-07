@@ -47,4 +47,4 @@ python -m http.server
 
 ## Live demo
 
-[Se CV-en min på nett]( https://maithanhnguyen06.github.io/Webutvikling/)
+[Se CV-en min på nett](https://maithanhnguyen06.github.io/CV/)
